@@ -1,8 +1,9 @@
 # HSFCustAlertView
 
 单图：
-
-
+![](https://github.com/HSFGitHub/HSFCustAlertView/blob/master/CustomAlertView/WXSingImg%402x.png)
+双图：
+![](https://github.com/HSFGitHub/HSFCustAlertView/blob/master/CustomAlertView/WXDouble%402x.png)
 
 使用方式：
 
