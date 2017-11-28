@@ -17,7 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    [HSFAlertView showContent:@"自定义的AlertView哦"];
+//    [HSFAlertView showContent:@"自定义的AlertView哦"];
+    [HSFAlertView showContent:@"自定义的AlertView哦" clickOkBtnBlock:^{
+        
+    } clickCancleBtnBlock:^{
+        
+    }];
 }
 
 
